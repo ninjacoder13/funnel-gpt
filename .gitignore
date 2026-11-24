@@ -1,0 +1,21 @@
+# Python / uv
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+dist/
+build/
+
+# Generated data, models, and reports
+artifacts/
+*.pt
+data/sample_events.csv
+data/real_ecommerce_events.csv
+report.html
+report_real.html
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
